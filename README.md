@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="media/app_icon.png" alt="Lector Logo" width="120">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="media/app_icon_dark.png">
+    <img src="media/app_icon_light.png" alt="Lector Logo" width="120">
+  </picture>
 </p>
 
 <h1 align="center">Lector iOS Client</h1>
