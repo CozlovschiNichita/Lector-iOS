@@ -1,0 +1,11 @@
+# Игнорируем артефакты сборки и локальные настройки Xcode
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+*.xcuserdata
+*.xccheckout
+*.xcscmblueprint
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.build/
+.DS_Store
