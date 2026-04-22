@@ -1,9 +1,15 @@
-# Lector iOS Client
+<p align="center">
+  <img src="media/app_icon.png" alt="Lector Logo" width="120">
+</p>
 
-![Swift](https://img.shields.io/badge/Swift-5.9-F05138.svg?style=flat&logo=swift)
-![iOS](https://img.shields.io/badge/iOS-18.0%2B-000000.svg?style=flat&logo=apple)
-![Architecture](https://img.shields.io/badge/Architecture-MVVM-blue.svg?style=flat)
-![Storage](https://img.shields.io/badge/Storage-SwiftData-orange.svg?style=flat)
+<h1 align="center">Lector iOS Client</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-5.9-F05138.svg?style=flat&logo=swift" alt="Swift">
+  <img src="https://img.shields.io/badge/iOS-18.0%2B-000000.svg?style=flat&logo=apple" alt="iOS">
+  <img src="https://img.shields.io/badge/Architecture-MVVM-blue.svg?style=flat" alt="Architecture">
+  <img src="https://img.shields.io/badge/Storage-SwiftData-orange.svg?style=flat" alt="Storage">
+</p>
 
 Lector is a native iOS application designed for intelligent recording, real-time transcription, and multi-lingual summarization of lectures and voice notes. It integrates deeply with a custom high-performance backend to provide seamless AI-driven processing while maintaining robust local offline capabilities.
 
